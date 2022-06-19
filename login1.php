@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/css/login1.css">
+    <link rel="stylesheet" href="./css/login1.css">
     <title>login1</title>
 </head>
 <body>
     <div class="wrapper">
         <div class="logo">
-            <img src="/img/LOGO.png" alt="">
+            <img src="./img/LOGO.png" alt="">
         </div>
         <div class="text-center mt-3 name" style="text-align: center;">
             M.V. INFOTECH

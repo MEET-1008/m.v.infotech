@@ -1,16 +1,17 @@
-<!DOCTYPE html>
+
+
 <html lang="en">
 
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MEET VAGHASIYA</title>
+  
 
   <link rel="stylesheet" href="	https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/css/index.css">
+  <link rel="stylesheet" href="./css/index.css">
+  <title>MEET VAGHASIYA</title>
 </head>
-
 <body>
   <div class="header">
     <div class="container1">
@@ -18,7 +19,7 @@
         <nav class="nav1">
           <!-- <ul id="MenuItems"> -->
           <div>
-            <img class="navbg" src="/img/background.jpg" alt="">
+            <img class="navbg" src="./img/background.jpg" alt="">
           </div>
           <!-- <li><a href="">Home</a></li>
                         <li><a href="">service</a></li> 
@@ -28,6 +29,7 @@
                         <li><a href="/login-page.html" class="login"> log in </a></li> -->
           <!-- 
                     </ul> -->
+                    
           <ul class="nav ">
             <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="#">Active</a>
@@ -45,20 +47,15 @@
               <div class="d-grid gap-2 d-md-block">
                 <!-- <button class="btn btn-primary" type="button">Button</button> -->
                 <!-- <button class="btn btn-primary" type="button">Button</button> -->
-                <a href="/login1.html"><button type="button" class="btn btn-outline-primary"
-                    id="btn1">login</button></a>
-                <a href="/RGF1.html"><button type="button" class="btn btn-outline-primary">signin</button>
-                </a>
+               <a href="./login1.php"><button  type="button" class="btn btn-outline-primary"
+                    id="btn1">login</button></a> 
+                <a href="./RGF1.PHP"><button type="button" class="btn btn-outline-primary">signin</button></a>
               </div>
             </li>
           </ul>
 
           <div class="mess">
             <h1>WELCOME TO M.V. INFOTECH WEBSITE</h1>
-            <p>
-              *------------------------description-----------------------<br>----------------------------------------------*
-            </p>
-
           </div>
         </nav>
       </div>
@@ -72,7 +69,7 @@
   <div class="row1">
     <div class="card" style="width: 18rem;">
       <div class="bg-image">
-        <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/053.webp" class="w-100" />
+        <img src="https://cdn.pixabay.com/photo/2014/12/28/13/20/wordpress-581849_960_720.jpg" class="w-100" />
       </div>
 
 
@@ -82,7 +79,7 @@
       </div>
     </div>
     <div class="card" style="width: 18rem;">
-      <img src="/img/2.png" class="card-img-top" alt="...">
+      <img src="./img/2.png" class="card-img-top" alt="...">
       <div class="card-body">
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
           card's content.
@@ -91,14 +88,14 @@
       </div>
     </div>
     <div class="card" style="width: 18rem;">
-      <img src="/img/3.jpg" class="card-img-top" alt="...">
+      <img src="./img/3.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
           card's content. <a href="#">read</a></p>
       </div>
     </div>
     <div class="card" style="width: 18rem;">
-      <img src="/img/4.png" class="card-img-top" alt="...">
+      <img src="./img/4.png" class="card-img-top" alt="...">
       <div class="card-body">
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
           card's content. <a href="#">read</a></p>
@@ -113,7 +110,7 @@
     <div class="card mb-3" style="max-width: 540px;">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="/img/shutterstock_703709461-e1556636042954.jpg" class="img-fluid rounded-start" alt="...">
+          <img src="./img/shutterstock_703709461-e1556636042954.jpg" class="img-fluid rounded-start" alt="...">
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -128,7 +125,7 @@
     <div class="card mb-3" style="max-width: 540px;">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="/img/Technology.jpg" class="img-fluid rounded-start" alt="...">
+          <img src="./img/Technology.jpg" class="img-fluid rounded-start" alt="...">
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -144,7 +141,7 @@
   <!-- <div class="row3 ">
        <div class="justify-content-center">
         <div class="card " style="width:15rem;">
-            <img src="/img/MEET.jpg" class="card-img-top" alt="...">
+            <img src="./img/MEET.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text"> MEET VAGHASIYA</p>
             </div>
