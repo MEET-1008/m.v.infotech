@@ -53,7 +53,7 @@
           </ul>
 
           <div class="mess">
-            <h1>Welcome to our website</h1>
+            <h1>Welcome Binu to our website</h1>
           </div>
         </nav>
       </div>
